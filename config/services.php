@@ -30,4 +30,10 @@ return [
         'region' => env('AWS_DEFAULT_REGION', 'us-east-1'),
     ],
 
+    // 'google' => [
+    //     'client_id' => '556381023988-mk33th9hseb3u2se3mtkmd40v28a20ps.apps.googleusercontent.com', //USE FROM Google DEVELOPER ACCOUNT
+    //     'client_secret' => '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', //USE FROM Google DEVELOPER ACCOUNT
+    //     'redirect' => 'https://laravel-crud-1e534.firebaseapp.com/__/auth/handler'
+    // ],
+
 ];
