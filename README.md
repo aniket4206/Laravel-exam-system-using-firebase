@@ -21,46 +21,12 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
+##  Project ScreenShot
+![Screenshot from 2021-12-01 11-27-58](https://user-images.githubusercontent.com/50656580/144181858-25af644f-0956-4fc6-a454-0b867449363c.png)
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+![Screenshot from 2021-12-01 11-27-54](https://user-images.githubusercontent.com/50656580/144182122-e59395d2-1c0b-4049-939f-047bc92cbc3d.png)
+![Screenshot from 2021-12-01 11-27-49](https://user-images.githubusercontent.com/50656580/144182143-a5f96d76-f0e6-4034-b592-782ee6cc10f6.png)
+![Screenshot from 2021-12-01 11-27-44](https://user-images.githubusercontent.com/50656580/144182173-2f727d8d-230c-4fa8-ba9e-01261573310c.png)
+![Screenshot from 2021-12-01 11-27-34](https://user-images.githubusercontent.com/50656580/144182343-d5ec2985-2805-4569-b7ce-6ec0089b4e32.png)
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[CMS Max](https://www.cmsmax.com/)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-- **[Romega Software](https://romegasoftware.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+ ![Screenshot from 2021-12-01 11-27-23](https://user-images.githubusercontent.com/50656580/144182369-609f9bb9-395a-4812-b442-ac420016a0e6.png)
